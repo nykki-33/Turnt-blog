@@ -1,10 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "The world's Largest Boiling Lake found ni Dominica"
 ---
-
-Today I started building my blog using HTML and CSS with Jekyll.
-
-This is my first official post, and I am learning how static websites work.
-
-![First blog image](/images/post1.jpg)
+Hiking to Boiling Lake in Dominica’s Morne Trois Pitons National Park is one of the most thrilling and rewarding adventures in the Caribbean. It’s also one of the most challenging. This intense 6-8 hour trek takes you through steaming volcanic landscapes, lush rainforest, and rugged mountain terrain before reaching the second-largest boiling lake in the world.
+![Boiling Lake](/images/boiling-lake.jpg)
