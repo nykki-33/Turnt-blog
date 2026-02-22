@@ -10,4 +10,4 @@ It is also one of the most challenging. This intense 6–8 hour trek takes
 you through steaming volcanic landscapes, rainforest, and rugged
 mountain terrain before reaching the second-largest boiling lake in the world.
 
-![Boiling Lake](/images/boiling-lake.jpg)
+![Boiling Lake]({{ '/images/boiling-lake.jpg' | relative_url }})
