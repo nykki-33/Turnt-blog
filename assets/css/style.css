@@ -1,1 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
+header {
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
