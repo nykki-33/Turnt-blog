@@ -12,4 +12,4 @@ Be prepared to spend at least 30 minutes making your way up.
 Once you get close, look for the orange-stained rocks.
 The hot spring water comes out of the rocks slightly to the left.
 
-![Mother and Father Falls](/images/mother-father-falls.jpg)
+![Mother Father Falls]({{ '/images/mother-father-falls.jpg' | relative_url }})
